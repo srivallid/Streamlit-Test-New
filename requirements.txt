@@ -12,8 +12,5 @@ xgboost
 nbconvert
 matplotlib
 streamlit
-pickle
 janitor
-os
-zipfile
 scipy
