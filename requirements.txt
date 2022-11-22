@@ -14,4 +14,3 @@ matplotlib
 streamlit
 janitor
 scipy
-configparser
